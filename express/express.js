@@ -23,7 +23,6 @@ app.get('/index.html', function (req, res, next) {
         <title></title>
     </head>
     <body>
-    
       <div> expressで出力${dayjs().format('YYYY-MM-DD HH:mm:ss.SSS')}</div>
         <div id="app"></div>
         <script type="module" src="/main.ts"></script>
