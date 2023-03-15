@@ -1,4 +1,4 @@
-# ViteexpressからHTMLファイルを取得するViteでHMRな開発環境を構築する（メモ）
+# 動的に取得したHtmlファイルを起点にViteでHMRな開発環境を構築する（メモ）
 
 詳しくはQiitaにて説明
 
