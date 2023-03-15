@@ -5,7 +5,7 @@
       Viteから出力
     </div>
     <div class="">
-      「expressからHTMLファイルを取得するViteでHMRな開発環境を構築する」
+      「動的に取得したHtmlファイルを起点にViteでHMRな開発環境を構築する」
     </div>
   </div>
 </template>
