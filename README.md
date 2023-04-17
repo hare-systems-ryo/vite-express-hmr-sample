@@ -2,7 +2,7 @@
 
 詳しくはQiitaにて説明
 
-https://qiita.com/drafts/2cdf3acfb221733a552f
+https://qiita.com/hare-systems-ryo/items/2cdf3acfb221733a552f
 
 
 -----------------------
